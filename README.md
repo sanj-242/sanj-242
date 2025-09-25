@@ -3,9 +3,9 @@
 
 ### Aspiring Machine Learning Engineer | Data & AI Enthusiast
 
-[cite_start]I'm a detail-oriented and impact-driven aspiring Data/ML Engineer with a Bachelor of Engineering in **Artificial Intelligence & Machine Learning**[cite: 30]. [cite_start]I have a strong foundation in Python, Java, and SQL [cite: 7, 22] [cite_start]and hands-on experience developing ML models and optimizing data workflows[cite: 7, 8].
+I'm an aspiring Data/ML Engineer with a Bachelor of Engineering in **Artificial Intelligence & Machine Learning**[cite: 30]. [cite_start]I have a strong foundation in Python, Java, and SQL [cite: 7, 22] [cite_start]and hands-on experience developing ML models and optimizing data workflows[cite: 7, 8].
 
-[cite_start]Currently, I'm passionate about building **resilient system design** and **real-time data applications** [cite: 10][cite_start], leveraging cloud technologies and visualization tools to derive business insights[cite: 9].
+[Currently, I'm passionate about building **real-time data applications** [cite: 10][cite_start], leveraging technologies and visualization tools to derive insights[cite: 9].
 
 ---
 
@@ -25,9 +25,9 @@
 
 These highlight my practical experience in ML and Data Engineering:
 
-* [cite_start]**Weapon Detection System** - *Real-time object detection using YOLOv8 for surveillance.* [cite: 39] (Check out the repo!)
-* [cite_start]**Consumer Complaint Resolution** - *Built an NLP classifier for categorizing and addressing user complaints.* [cite: 40]
-* [cite_start]**Stock Price Prediction** - *Time series forecasting using ML algorithms on AMZN stock data.* [cite: 37]
+* **Weapon Detection System** - *Real-time object detection using YOLOv8 for surveillance* [cite: 39] (Check out the repo!)
+* **Outfitly AI** - *AI Powered Fashion Stylist, Outfit Generator & Trend Predictor* [cite: 40]
+* **DataMind AI** - *Multimodal data to visualization assisstant* [cite: 37]
 
 ---
 
