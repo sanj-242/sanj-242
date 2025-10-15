@@ -27,7 +27,7 @@ These highlight my practical experience in ML and Data Engineering:
 
 * **Internships** - *Developed ML model for predictive analytics using enterprise data, and Web Scraping (Beacon) and worked with Computer Vision and NLP pipelines for AI-powered solutions (Deepcept AI)*
 * **Mini Projects** - *Built and analyzed models across key areas including sales and stock forecasting, consumer complaint classification, sentiment analysis, image caption generation, movie recommendation systems, and infrastructure data visualization*
-* **Weapon Detection System** - *Real-time object detection using YOLOv8 for surveillance* 
+* **Weapon Detection System** - *Developed an end-to-end AI system using YOLOv8, Firebase, and Streamlit for real-time weapon detection, alert automation, and live monitoring — demonstrating applied ML deployment and real-world impact.* 
 * **Outfitly AI** - *AI Powered Fashion Stylist, Outfit Generator & Trend Predictor*
 * **DataMind AI** - *Multimodal data to visualization assisstant*
 
