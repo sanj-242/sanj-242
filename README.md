@@ -37,7 +37,7 @@ These highlight my practical experience in ML and Data Engineering:
 
 * **LinkedIn**: https://www.linkedin.com/in/sanjana-suresh09/
 * **Email**: sanjanasuresh2402@gmail.com
-* **Portfolio/Other Link (Optional)**
+* **Portfolio/Other Link**: https://www.figma.com/make/GiFUSy7iAJz5NdedmW1muN/Portfolio?node-id=0-1&p=f&t=EX4xFT73jKieOEnW-0&fullscreen=1
 
 ---
 
